@@ -1,2 +1,0 @@
-username="helloworld"
-print(username)
